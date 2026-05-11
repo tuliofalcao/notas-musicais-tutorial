@@ -9,6 +9,7 @@ packages = [{include = "notas_musicais_tutorial"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 blue = "^0.9.1"
+idna = "^3.14"
 
 
 [tool.poetry.group.dev.dependencies]

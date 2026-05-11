@@ -482,7 +482,7 @@ pypi = ["pip (>=24.0)", "platformdirs (>=4.2)", "wheel (>=0.42)"]
 name = "idna"
 version = "3.14"
 description = "Internationalized Domain Names in Applications (IDNA)"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.8"
 files = [
@@ -1340,4 +1340,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "7dfe987aeceb6d909031c85af1906a954fc291f767a4eb8cc5e643b7654f8d15"
+content-hash = "e6e8f483bb767560c724d4fa4c5667c0525a94720298f210a3d0057850d77e79"
